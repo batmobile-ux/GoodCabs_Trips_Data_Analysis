@@ -22,6 +22,9 @@ The dataset consists of 10 CSVs:
 
 ---
 
+## Download Dataset from here 
+https://www.kaggle.com/datasets/amitsubhashchejara/goodcabs-trips-and-revenue-data/data?select=monthly_target_new_passengers.csv
+
 ## ⚙️ Setup
 
 Clone this repo and install dependencies:
@@ -31,3 +34,4 @@ git clone https://github.com/batmobile-ux/GoodCabs_Trips_Data_Analysis.git
 cd GoodCabs_Trips_Data_Analysis
 
 pip install polars matplotlib seaborn
+
