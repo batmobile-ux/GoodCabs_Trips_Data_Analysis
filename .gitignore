@@ -1,0 +1,28 @@
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+.env
+
+# Datasets / large files
+data/
+*.csv
+*.parquet
+*.h5
+*.json
+
+# Plots / images generated
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
